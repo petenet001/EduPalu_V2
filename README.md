@@ -16,15 +16,16 @@ EduPalu est disponible en ligne, pour Windows / Mac / Linux et pour les smartpho
 
 Utilisez EduPalu en ligne en cliquant sur le lient suivant : [fongwama.github.io/EduPalu_V2](http://fongwama.github.io/EduPalu_V2/)
 
-## Version PC (et Mac aussi)
+## Version PC (et Mac aussi) "Application en cours de production"
 
-- Téléchargez la dernière version de Edupalu en cliquant sur le lien suivant : [EduPalu-master.zip](https://github.com/fongwama/EduPalu/archive/master.zip)
+- Téléchargez la dernière version de EduPalu en cliquant sur le lien suivant : [EduPalu-master.zip](https://github.com/fongwama/EduPalu/archive/master.zip)
 - Décompressez le fichier `EduPalu-master.zip` que vous avez téléchargé (sous Windows, en cliquant droit sur le fichier puis en sélectionnant `Extraire tout...`). L'application sera dans le répertoire `EduPalu-master`.
 - Ouvrez le fichier `index.html` (ou `index` sous Windows) avec un navigateur internet récent (de préférence Mozilla Firefox ou Google Chrome).
 
-## Version Android
+## Version Android et Apple
 
-EduPalu est disponible sur la bibliothèque d'applications Android Google Play Store : [ ![Google Play Badge](local/google-play-badge.png) ](https://play.google.com/store/apps/details?id=com.fcrm.edupalu)
+EduPalu V2 sera disponible sur Android et Apple
+
 
 ## Les différentes rubriques d'EduPalu
 
@@ -32,11 +33,11 @@ EduPalu est disponible sur la bibliothèque d'applications Android Google Play S
 
 Informations détaillées sur le paludisme. 
 
-### Pharmacies
+### Pharmacies et Centre de Santé Intégré (CSI)
 
-Liste des principales pharmacies. Vous pouvez chercher une pharmacie par mot-clef ou trouver la pharmacie la plus proche en utilisant la fonction de géolocalisation de votre téléphone (depuis un smartphone) ou de votre navigateur (depuis un ordinateur).
+Liste des principales pharmacies et hopitaux du Congo. Vous pouvez chercher une pharmacie ou un CSI par mot-clef ou trouver la pharmacie ou le CSI la plus proche en utilisant la fonction de géolocalisation de votre téléphone (depuis un smartphone) ou de votre navigateur (depuis un ordinateur).
 
-Pour chaque pharmacie, l'adresse et des indications pour trouver facilement la pharmacie sont fournies. Un numéro de téléphone est indiqué dans la mesure du possible.
+Pour chaque pharmacie et CSi, l'adresse et des indications pour trouver facilement la pharmacie sont fournies. Un numéro de téléphone est indiqué dans la mesure du possible.
  
 Cette base de données est en constante évolution. Les informations fournies dans cette rubrique ne le sont qu'à titre indicatif.
 
