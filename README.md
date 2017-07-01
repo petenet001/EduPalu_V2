@@ -24,7 +24,7 @@ Utilisez EduPalu en ligne en cliquant sur le lient suivant : [fongwama.github.io
 
 ## Version Android et Apple
 
-EduPalu V2 sera disponible sur Android et Apple
+EduPalu 2.0 sera disponible sur Android et Apple
 
 
 ## Les différentes rubriques d'EduPalu
